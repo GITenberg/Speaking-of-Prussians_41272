@@ -1,0 +1,30 @@
+_repo: Speaking-of-Prussians_41272
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41272-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cobb, Irvin S. (Irvin Shrewsbury)
+    alias: Cobb, Irvin Shrewsbury
+    birthdate: 1876
+    deathdate: 1944
+    gutenberg_agent_id: '559'
+    url: http://www.gutenberg.org/2009/agents/559
+    wikipedia: http://en.wikipedia.org/wiki/Irvin_S._Cobb
+description: ''
+gutenberg_issued: '2012-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41272'
+  lccn: '17014799'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'National characteristics, German'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918'
+title: '"Speaking of Prussians--"'
+url: http://www.gutenberg.org/ebooks/41272
